@@ -1,1 +1,1 @@
-Useful links that inspired new ideas and learned a lot from
+Useful links that I'd never want to lose
