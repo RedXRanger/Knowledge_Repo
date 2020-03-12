@@ -1,0 +1,21 @@
+Alternate way to download file into memory in C - see post by 'Napalm' using URLBlockingStream. Very cool.
+http://www.rohitab.com/discuss/topic/28719-downloading-a-file-winsock-http-c/
+http://archive.vn/tStET
+
+
+Using CreateThread in a DLL the right way - really helped me understand DLL creation and avoiding deadlock better
+https://samprograms.wordpress.com/2015/02/27/correctly-using-createthread/
+http://archive.vn/5AxkA
+
+
+Write shellcode in C
+http://www.exploit-monday.com/2013/08/writing-optimized-windows-shellcode-in-c.html
+http://archive.vn/8tZrM
+**
+https://nickharbour.wordpress.com/2010/07/01/writing-shellcode-with-a-c-compiler/
+http://archive.vn/jZnAm
+
+
+Beginners guide to running shellcode in windows memory in C
+https://www.contextis.com/en/blog/a-beginners-guide-to-windows-shellcode-execution-techniques
+http://archive.vn/AYqLF
