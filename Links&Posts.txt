@@ -19,3 +19,8 @@ http://archive.vn/jZnAm
 Beginners guide to running shellcode in windows memory in C
 https://www.contextis.com/en/blog/a-beginners-guide-to-windows-shellcode-execution-techniques
 http://archive.vn/AYqLF
+
+
+Downloading a file in memory into a buffer using malloc
+https://www.dreamincode.net/forums/topic/269274-cant-store-downloaded-data-in-one-big-buffer-using-internetreadfile/
+http://archive.vn/IT4AD
