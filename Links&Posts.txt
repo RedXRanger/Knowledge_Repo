@@ -24,3 +24,8 @@ http://archive.vn/AYqLF
 Downloading a file in memory into a buffer using malloc
 https://www.dreamincode.net/forums/topic/269274-cant-store-downloaded-data-in-one-big-buffer-using-internetreadfile/
 http://archive.vn/IT4AD
+
+
+XLM 4.0 Generator and 64bit
+https://fortynorthsecurity.com/blog/excelntdonut/
+http://archive.vn/nZJ2m
