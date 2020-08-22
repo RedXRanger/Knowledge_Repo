@@ -29,3 +29,6 @@ http://archive.vn/IT4AD
 XLM 4.0 Generator and 64bit
 https://fortynorthsecurity.com/blog/excelntdonut/
 http://archive.vn/nZJ2m
+
+//great post on find programs vulnerable to dll hijacking
+https://posts.specterops.io/automating-dll-hijack-discovery-81c4295904b0
