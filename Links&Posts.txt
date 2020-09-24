@@ -37,3 +37,17 @@ https://posts.specterops.io/automating-dll-hijack-discovery-81c4295904b0
 Avoid EDR
 https://blog.xpnsec.com/hiding-your-dotnet-complus-etwenabled/ 
 https://archive.vn/LgNa1
+
+
+Microsoft understand console handles:
+https://docs.microsoft.com/en-us/windows/console/console-handles
+https://archive.vn/ibQSj
+https://archive.vn/wip/5XL8a <- realted usage
+
+Resource Loading into DLLs
+https://stackoverflow.com/questions/57679404/winapi-findresource-returns-null-only-inside-dll <- this one 
+https://archive.vn/wip/Bylxk
+
+https://stackoverflow.com/questions/35062840/findresource-function-fails-although-resource-exists
+https://archive.vn/wip/5XL8a
+
