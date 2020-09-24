@@ -32,3 +32,8 @@ http://archive.vn/nZJ2m
 
 //great post on find programs vulnerable to dll hijacking
 https://posts.specterops.io/automating-dll-hijack-discovery-81c4295904b0
+
+
+Avoid EDR
+https://blog.xpnsec.com/hiding-your-dotnet-complus-etwenabled/ 
+https://archive.vn/LgNa1
