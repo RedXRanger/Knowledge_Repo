@@ -51,3 +51,6 @@ https://archive.vn/wip/Bylxk
 https://stackoverflow.com/questions/35062840/findresource-function-fails-although-resource-exists
 https://archive.vn/wip/5XL8a
 
+
+https://securityintelligence.com/posts/net-execution-inlineexecute-assembly/
+https://archive.ph/mvP9F
