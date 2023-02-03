@@ -54,3 +54,7 @@ https://archive.vn/wip/5XL8a
 
 https://securityintelligence.com/posts/net-execution-inlineexecute-assembly/
 https://archive.ph/mvP9F
+
+
+https://perspectiverisk.com/a-practical-guide-to-bypassing-userland-api-hooking/
+https://archive.ph/I2qrY
