@@ -58,3 +58,8 @@ https://archive.ph/mvP9F
 
 https://perspectiverisk.com/a-practical-guide-to-bypassing-userland-api-hooking/
 https://archive.ph/I2qrY
+
+
+
+https://infosecwriteups.com/abusing-ntlm-relay-and-pass-the-hash-for-admin-d24d0f12bea0
+https://archive.is/I44Rt
